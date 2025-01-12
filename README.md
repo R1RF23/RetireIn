@@ -6,8 +6,11 @@ Arduino LCD Retirement Countdown & Clock
 -----------------------------------
 Hardware Used:
 --RTC: DS1307 or DS3231 with 3V CoinCell Battery
+
 --LCD: 16x02 LCD HD44780 with I2C BreakoutBoard
+
 --MCU: Arduino Nano (ATMega328P)
+
 --Button: Simple 2-pin N/O Mini Button
 -------------------------------------
 
