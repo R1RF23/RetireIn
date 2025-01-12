@@ -5,6 +5,7 @@ RetireIn -Version 3
 Arduino LCD Retirement Countdown & Clock
 -----------------------------------
 Hardware Used:
+
 --RTC: DS1307 or DS3231 with 3V CoinCell Battery
 
 --LCD: 16x02 LCD HD44780 with I2C BreakoutBoard
